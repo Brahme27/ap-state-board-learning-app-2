@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+.vscode/
+.env
+start_app.bat
+start_app.ps1
+AP State Board Syllabus.txt
